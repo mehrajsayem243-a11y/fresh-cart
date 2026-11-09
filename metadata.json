@@ -1,0 +1,6 @@
+{
+  "name": "FreshCart",
+  "description": "Smart grocery list and pantry tracker with contact collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
